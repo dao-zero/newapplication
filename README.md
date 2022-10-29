@@ -1,3 +1,4 @@
+# 本项目用于服务器作为图床进行图片管理
 # newapplication
 
 ## Project setup
