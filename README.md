@@ -1,4 +1,5 @@
 # 本项目用于服务器作为图床进行图片管理
+# 这里是前台部分
 # newapplication
 
 ## Project setup
